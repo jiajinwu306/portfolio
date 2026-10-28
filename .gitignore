@@ -1,0 +1,12 @@
+.agents/
+.oil-ui/
+.skill-temp/
+*.cjs
+door.css
+door.js
+assets/check-*.png
+assets/door-check-*.png
+assets/inside-check-*.png
+assets/quality-check-*.png
+assets/neon-city.png
+assets/neon-inside.png
